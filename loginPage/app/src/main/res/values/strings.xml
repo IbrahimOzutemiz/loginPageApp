@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">loginPage</string>
+    <string name="e_mail_giris_yap">E-mail ile giriş yap </string>
+    <string name="e_mail_giris_yapabilirsiniz">E-mail ile giriş yapabilirsiniz. </string>
+    <string name="e_mail">E-mail</string>
+    <string name="sifre">Şifre </string>
+    <string name="sifremi_unuttum">Şifremi unuttum </string>
+    <string name="giris_yap">Giriş Yap </string>
+    <string name="sifreyi_sifirla">Şifreyi Sıfırla </string>
+    <string name="geri_don">Geri Dön </string>
+    <string name="kayit_ol">Kayıt Ol </string>
+    <string name="kullanici_adi">Kullanıcı Adı </string>
+    <string name="asagidaki_bilgileri_doldurun">Aşağıdaki bilgileri doldurun.</string>
+    <string name="hosgeldiniz">Hoşgeldiniz!  </string>
+    <string name="hizmetlerimize_goz_atin">En iyi hizmetlerimize göz atın. </string>
+    <string name="servislerimiz">Servislerimiz </string>
+    <string name="iletisime_gecin">İletişime Geçin </string>
+    <string name="cikis_yap">Çıkış Yap </string>
+
+
+
+</resources>

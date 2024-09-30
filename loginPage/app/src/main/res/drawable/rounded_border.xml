@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Yuvarlatılmış köşeler -->
+    <corners android:radius="16dp" />
+
+    <!-- Border (çerçeve) rengi ve kalınlığı -->
+    <stroke
+        android:width="2dp"
+        android:color="#4A4256" />
+
+    <!-- Arka plan rengi (ihtiyaç durumunda) -->
+    <solid android:color="@android:color/transparent" />
+
+</shape>

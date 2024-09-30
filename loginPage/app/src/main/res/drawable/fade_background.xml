@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Ana resim -->
+    <item>
+        <bitmap
+            android:src="@drawable/sample_image"
+        android:gravity="center" />
+    </item>
+
+    <!-- Kenarları saydamlaştıran gradient -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@android:color/transparent"
+                android:centerColor="@android:color/transparent"
+                android:endColor="@android:color/black"
+                android:angle="270" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837881896362",
+    "project_id": "loginpage-639ae",
+    "storage_bucket": "loginpage-639ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837881896362:android:cdb8201caa827474355fd3",
+        "android_client_info": {
+          "package_name": "com.ibrahimozutemiz.loginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX5HqiZhpihTKCD1C0rBu9J0QZJ7ig3FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
